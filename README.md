@@ -3,10 +3,6 @@
 # 客户端参数说明：
 name= 矿机名称
 
-#atxid=CommitmentAtxId 
-
-#id=Nodeid
-
 #fromFile="2"  #开始文件数
 
 #tofile="3"       #截至数据文件数
